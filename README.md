@@ -1,0 +1,1 @@
+The program in task1 includes mathematical operations addition, subtraction, multiplication, and division. Using the 'input' command program takes the values from user as string which is then converted to integer and mathematical operations are executed.'print' command displays the output in the terminal.
